@@ -8,6 +8,6 @@ namespace Forms.Domain.Models
     {
         public string Name { get; set; }
 
-        public IEnumerable<Forms> Forms { get; set; }
+        public IEnumerable<Form> Forms { get; set; }
     }
 }

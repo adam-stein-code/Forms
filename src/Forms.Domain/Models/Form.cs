@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Forms.Domain.Models
 {
-    public class Forms : Entity
+    public class Form : Entity
     {
         public string Title { get; set;}
         public string Description { get; set; }
